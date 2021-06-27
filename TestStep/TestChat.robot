@@ -12,3 +12,8 @@ Verify Chat Frame Content
 Verify Close Chat Box
     Close Chat Box
     Verify Main Page
+
+Verify Start to Chat
+    [Arguments]                             ${instructionGreeting}
+    Click Get Started Button
+    Verify Instruction                      ${instructionGreeting}

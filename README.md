@@ -2,11 +2,11 @@
 
 This project is to make an automation test for VOUCH chat bot. Please read the steps carefully:
 
-Clone the project
-Make sure you have installed robot framework in your machine
-Open terminal and go to the project directory `VOUCH/TestSuite` 
-Run the project with the following command: `robot Suite.robot`
-The project will open the browser automatically
+1. Clone the project
+2. Make sure you have installed robot framework in your machine
+3. Open terminal and go to the project directory `VOUCH/TestSuite` 
+4. Run the project with the following command: `robot Suite.robot`
+5. The project will open the browser and run all steps automatically
 
 # Detail Project
 Technology Used : Robot Framework with Page Object Model Way

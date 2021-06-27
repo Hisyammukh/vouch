@@ -22,3 +22,8 @@ User Could see Chat Panel Title
 
 User Could Minimize Chat Panel
     Verify Close Chat Box
+
+User Could Start to Initiate Conversation
+    Verify Chat Box is Visible
+    Verify Chat Frame Content
+    Verify Start to Chat                    ${firstChatBot}
